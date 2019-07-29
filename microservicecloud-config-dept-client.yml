@@ -49,7 +49,7 @@ spring:
   application:
     name: microservicecloud-config-eureka-client
   datasource:
-    url: jdbc:mysql://localhost:3306/cloudDB01?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&verifyServerCertificate=false&useSSL=false
+    url: jdbc:mysql://localhost:3306/cloudDB02?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&verifyServerCertificate=false&useSSL=false
     username: root
     password: 123456
     driver-class-name: com.mysql.jdbc.Driver
